@@ -1,0 +1,98 @@
+{
+ "format": "parking_ai_track",
+ "version": 1,
+ "name": "simples",
+ "size": [
+  1000,
+  700
+ ],
+ "slot": {
+  "x": 700,
+  "y": 350,
+  "l": 64,
+  "w": 34,
+  "rot": 0
+ },
+ "start": {
+  "x": 120,
+  "y": 300,
+  "rot": 0
+ },
+ "cars": [],
+ "obstacles": [],
+ "walls": [],
+ "visual": [
+  {
+   "kind": "line",
+   "p1": [
+    732.0,
+    367.0
+   ],
+   "p2": [
+    732.0,
+    333.0
+   ],
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "width": 3,
+   "visual_only": true
+  },
+  {
+   "kind": "line",
+   "p1": [
+    732.0,
+    333.0
+   ],
+   "p2": [
+    668.0,
+    333.0
+   ],
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "width": 3,
+   "visual_only": true
+  },
+  {
+   "kind": "line",
+   "p1": [
+    668.0,
+    333.0
+   ],
+   "p2": [
+    668.0,
+    367.0
+   ],
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "width": 3,
+   "visual_only": true
+  },
+  {
+   "kind": "line",
+   "p1": [
+    668.0,
+    367.0
+   ],
+   "p2": [
+    732.0,
+    367.0
+   ],
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "width": 3,
+   "visual_only": true
+  }
+ ]
+}

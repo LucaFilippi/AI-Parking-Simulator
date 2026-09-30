@@ -1,0 +1,16 @@
+{
+ "track": "simples.json",
+ "model": "",
+ "hidden": "32,16",
+ "pop": 2000,
+ "mut_rate": 0.05,
+ "mut_strength": 0.25,
+ "elite": 0.01,
+ "max_gen": 1800,
+ "reverse": true,
+ "car_pen": 1300,
+ "obs_pen": 1000,
+ "out_pen": 1000,
+ "resume": false,
+ "headless": false
+}
